@@ -18,4 +18,4 @@ the search program accepts commandline input arguments:
 - a quoted query string (i.e., the search term).
 
 
-**Note:** Report bugs, improvements and suggestions [here](sahil.khalsaboy@gmail.com)
+**Note:** Report bugs, improvements and suggestions at sahil.khalsaboy@gmail.com
